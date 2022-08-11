@@ -1,0 +1,38 @@
+.HEADER{
+    width: 100%;
+    height:100PX ;
+    background-color: black;
+    COLOR:WHITE;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding:AUTO;
+}
+.SEARCH{
+    border-color: blue;
+   
+}
+.INPUT{
+    width: 90%;
+    HEIGHT: 50px;
+    border: 1PX SOLID BALCK;
+    ;
+}
+.image{
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    z-index: 0;
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 40%;
+    ma
+   
+}
+footer{
+    color:white;
+    background-color:black;
+    height: 100px;
+}
